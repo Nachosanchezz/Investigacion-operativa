@@ -28,37 +28,44 @@ Donde:
 - \( x_6 \) es el número de auriculares.
 
 
-## Restricciones
+# Restricciones del Problema Primal
 
 1. **Restricción 1**: La producción total de todos los productos no debe superar las 1000 unidades:
-   $$
-   x_1 + x_2 + x_3 + x_4 + x_5 + x_6 \leq 1000
-   $$
+
+$$
+x_1 + x_2 + x_3 + x_4 + x_5 + x_6 \leq 1000
+$$
 
 2. **Restricción 2**: La producción de ratones inalámbricos, teclados y auriculares no puede superar las 250 unidades:
-   $$
-   x_1 + x_2 + x_6 \leq 250
-   $$
+
+$$
+x_1 + x_2 + x_6 \leq 250
+$$
 
 3. **Restricción 3**: La producción de altavoces y cargadores de móvil no puede superar las 300 unidades:
-   $$
-   x_3 + x_4 \leq 300
-   $$
+
+$$
+x_3 + x_4 \leq 300
+$$
 
 4. **Restricción 4**: La producción de cámaras web no puede superar las 100 unidades:
-   $$
-   x_5 \leq 100
-   $$
+
+$$
+x_5 \leq 100
+$$
 
 5. **Restricción 5**: Se deben producir al menos 50 unidades de ratones inalámbricos:
-   $$
-   x_1 \geq 50
-   $$
+
+$$
+x_1 \geq 50
+$$
 
 6. **Restricción 6**: La producción de teclados no debe superar las 200 unidades:
-   $$
-   x_2 \leq 200
-   $$
+
+$$
+x_2 \leq 200
+$$
+
 
 ## Modelo Primal y Dual
 
