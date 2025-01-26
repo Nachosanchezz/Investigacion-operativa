@@ -114,6 +114,7 @@ Puedes instalar Pyomo usando pip:
 
 ```bash
 pip install pyomo
+```
 
 ## Información personal
 
