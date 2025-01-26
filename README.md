@@ -30,8 +30,6 @@ Donde:
 
 ## Restricciones
 
-Las restricciones del problema son las siguientes:
-
 1. **Restricción 1**: La producción total de todos los productos no debe superar las 1000 unidades:
    $$
    x_1 + x_2 + x_3 + x_4 + x_5 + x_6 \leq 1000
