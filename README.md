@@ -21,12 +21,12 @@ $$
 Donde:
 
 $$
-- \( x_1 \) es el número de ratones inalámbricos.
-- \( x_2 \) es el número de teclados.
-- \( x_3 \) es el número de altavoces.
-- \( x_4 \) es el número de cargadores de móvil.
-- \( x_5 \) es el número de cámaras web.
-- \( x_6 \) es el número de auriculares.
+\( x_1 \) es el número de ratones inalámbricos.
+\( x_2 \) es el número de teclados.
+\( x_3 \) es el número de altavoces.
+\( x_4 \) es el número de cargadores de móvil.
+\( x_5 \) es el número de cámaras web.
+\( x_6 \) es el número de auriculares.
 $$
 
 ## Restricciones
