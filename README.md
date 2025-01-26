@@ -19,6 +19,7 @@ f(x) = 20x_1 + 35x_2 + 25x_3 + 15x_4 + 50x_5 + 30x_6
 $$
 
 Donde:
+
 $$
 - \( x_1 \) es el número de ratones inalámbricos.
 - \( x_2 \) es el número de teclados.
@@ -26,7 +27,7 @@ $$
 - \( x_4 \) es el número de cargadores de móvil.
 - \( x_5 \) es el número de cámaras web.
 - \( x_6 \) es el número de auriculares.
-  $$
+$$
 
 ## Restricciones
 
