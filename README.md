@@ -114,3 +114,8 @@ Puedes instalar Pyomo usando pip:
 
 ```bash
 pip install pyomo
+
+## Información personal
+
+Link al repositorio: https://github.com/Nachosanchezz/Investigacion-operativa.git
+Usuario de Github: Nachosanchezz
